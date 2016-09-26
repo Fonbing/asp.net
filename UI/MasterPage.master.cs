@@ -22,7 +22,7 @@ public partial class MasterPage : System.Web.UI.MasterPage
                 case 0:
                     PopulateCategories(e.Node);
                     break;
-                case 1:sdd
+                case 1:
                     PopulateProducts(e.Node);
                     break;
             }
